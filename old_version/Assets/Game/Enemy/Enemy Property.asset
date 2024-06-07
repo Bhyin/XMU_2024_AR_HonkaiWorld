@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d565f561e80d5045b965e9923848952, type: 3}
+  m_Name: Enemy Property
+  m_EditorClassIdentifier: 
+  m_Items:
+  - type: 0
+    prefab: {fileID: 1184219766476796792, guid: 92ed927004bf18a458662ed8f1412409,
+      type: 3}
+    indiviDuration: 1.501502
+    batchDuration: 12

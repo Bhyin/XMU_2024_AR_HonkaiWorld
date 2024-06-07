@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c6404661ee09ac4f8884db0a1986adf, type: 3}
+  m_Name: Character Property
+  m_EditorClassIdentifier: 
+  m_Items:
+  - type: 0
+    name: C1
+    characterPrefab: {fileID: 3361125808490019360, guid: fd7af2621e4a8bf4d857f7dc3f6caadf,
+      type: 3}
+    attackRadius: 3
+    attackDistanceType: 0
+    skillType: 0
+    skillDistanceType: 0
+    skillLength: 0
+    skillWidth: 0
